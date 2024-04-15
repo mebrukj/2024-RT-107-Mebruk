@@ -1,0 +1,25 @@
+Last login: Mon Apr 15 13:08:58 on ttys002
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+(base) Mebruks-MBP:~ mebrukjemal$ 
+(base) Mebruks-MBP:~ mebrukjemal$ this is my first text file
+-bash: this: command not found
+(base) Mebruks-MBP:~ mebrukjemal$ I have made changes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
